@@ -1,0 +1,7 @@
+{
+  "origins": ["https://notbrian.me", "https://iambrianle.github.io"],
+  "originsRegex": [
+    "http://localhost:[0-9]+"
+  ],
+  "defaultCommentOrder": "oldest"
+}
